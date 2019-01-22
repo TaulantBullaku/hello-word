@@ -1,5 +1,4 @@
 1)  Nella prima parte vi è il metodo takePhoto( riga numero #175) da tenere in considerazione. 
-    Anche se il codice è obsoleto ed è stato scartato.
     Allego link dell intero branch per eventuali consultazione.
     https://github.com/PrandiniUniPD/OCRCameraDemo/tree/takePhoto/app/src/main/java/group2/software/ingegneria/elementi/ocrcamerademo
 
