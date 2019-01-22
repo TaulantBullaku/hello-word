@@ -1,3 +1,15 @@
+1)  Nella prima parte vi è il metodo takePhoto( riga numero #175) da tenere in considerazione. 
+    Anche se il codice è obsoleto ed è stato scartato.
+    Allego link dell intero branch per eventuali consultazione.
+    https://github.com/PrandiniUniPD/OCRCameraDemo/tree/takePhoto/app/src/main/java/group2/software/ingegneria/elementi/ocrcamerademo
+
+2)  In seguito riporto onLoginSuccess e onLoginFailure come proposte per revisione (riga numero #271).
+    allego link con Branch completo per eventuali necessità.
+    https://github.com/PrandiniUniPD/OCRCamera/tree/discussionForum/forum/src/main/java/unipd/se18/ocrcamera/forum
+
+Pur cosciente della scarsità del lavoro, vorrei portare all attenzione le differenze tra il metodo takePhoto iniziale e il Forum anche per mostrare le differenze
+tra un iniziale scrittura del codice e una scrittura finale per notare eventuali miglioramento ottenuti durante il corso.
+
 Checklist per codereview, "item" utilizzati
 
 
@@ -9,17 +21,13 @@ Checklist per codereview, "item" utilizzati
 - Correttezza del nome delle variabili, nomi chiari chi facilitino a capire il loro utilizzo
 - Che le eccezzioni siano gestite adeguatamente
 - Eliminazione dei riferimenti a oggetti obsoleti
-- Ridurre al minimo l'accessibilità di classi e membri
+- Ridurre al minimo accessibilità di classi e membri
 - Preferenza delle interfacce alle classi astratte
 - Utilizzo delle interfacce solo per definire i tipi
 - Favorire metodi generici
 
 
-
-
-// Nella prima parte vi è il metodo takePhoto(#167) da tenere in considerazione, allego relativo link per visualizzare l'intero Branch.
-// https://github.com/PrandiniUniPD/OCRCameraDemo/tree/takePhoto/app/src/main/java/group2/software/ingegneria/elementi/ocrcamerademo
-
+----------------------------------------------------------------------------------
 
 package group2.software.ingegneria.elementi.ocrcamerademo;
 
@@ -235,12 +243,7 @@ public class Homepage extends AppCompatActivity
 
 
 
-// di seguito riporto onLoginSuccess, onLoginFailure come proposte per revisione.
-//allego link con Branch completo per eventuali necessità.
-//https://github.com/PrandiniUniPD/OCRCamera/tree/discussionForum/forum/src/main/java/unipd/se18/ocrcamera/forum
-
-
-
+----------------------------------------------------------------------------------------
 
 package unipd.se18.ocrcamera.forum;
 
